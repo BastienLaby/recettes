@@ -5,6 +5,8 @@
 - [Poulet aux poireaux, moutarde et quinoa](https://bastienlaby.github.io/recettes/sale/poulet_poireaux_moutarde_quinoa)
 - [Poulet aux noix de cajoux](https://bastienlaby.github.io/recettes/sale/poulet_cajoux)
 - [Cabillaud à la moutarde et aux poireaux](https://bastienlaby.github.io/recettes/sale/cabillaud_moutarde_poireaux)
+- [Linguine sauce feta, pousses d'épinard et chèvre frais](https://bastienlaby.github.io/recettes/sale/linguine_sauce_feta_epinards_chevre.md)
+
 
 ## Recettes sucrées
 
