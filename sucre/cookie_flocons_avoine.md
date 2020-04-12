@@ -1,4 +1,4 @@
-# Cookies aux flocons d'avoineet à la banane
+# Cookies aux flocons d'avoine et à la banane
 
 ## Ingrédients (12 cookies) :
 - 120g de flacons d’avoine
