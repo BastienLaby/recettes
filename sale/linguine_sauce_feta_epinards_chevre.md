@@ -1,5 +1,7 @@
 # Linguine sauce feta, pousses d'épinard et chèvre frais
 
+<img src="../img/linguine_feta_basilic.jpg" alt="drawing" width="50%"/>
+
 ## Ingrédients :
 - Linguine
 - Fromage de brebis type feta (10 à 20g par personne)
@@ -25,3 +27,4 @@ Faites cuire les linguine dans un grand volume d'eau. Evitez de trop la saler ca
 1. Versez les linguine dans une assiette (creuse de préférence). Essayez de garder un tout petit peu d'eau de cuisson pour éviter que les pâtes collent.
 2. Versez la sauce directement sur les pâtes.
 3. Disposez des petits bouts de fromage frais sur l'asiiette, puis agrémentez d'une feuille de basilic.
+4. Vous pouvez rajouter du parmesan rapé sur le dessus si vous le souhaitez.
