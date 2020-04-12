@@ -9,7 +9,7 @@
 ### Recettes sucrées
 
 - [Compote maison Pomme/Cannelle](https://github.com/BastienLaby/recettes/blob/master/sucre/compote_pommes_cannelle_maison.md)
-- [Cookies aux flocons d'avoine et à la banane](https://github.com/BastienLaby/recettes/blob/master/sucre/ 	cookie_flocons_avoine.md)
+- [Cookies aux flocons d'avoine et à la banane](https://github.com/BastienLaby/recettes/blob/master/sucre/cookie_flocons_avoine.md)
 - [Galette à la frangipane](https://github.com/BastienLaby/recettes/blob/master/sucre/)
 - [Gâteau au chocolat rapide et moelleux](https://github.com/BastienLaby/recettes/blob/master/sucre/)
 - [Madeleines à l'ancienne](https://github.com/BastienLaby/recettes/blob/master/sucre/)
