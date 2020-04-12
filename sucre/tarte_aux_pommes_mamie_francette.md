@@ -1,5 +1,7 @@
 # Tarte aux pommes de Mamie Francette
 
+<img src="../img/tarte_pommes_mamie_francette.png" alt="drawing" width="50%"/>
+
 ## Ingrédients :
 - 1 pate feuilletée
 - Compote de pommes (voir recette)
