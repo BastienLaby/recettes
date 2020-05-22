@@ -1,16 +1,19 @@
 # Pâte à crêpes
 
-## Ingrédients (pour 10 crêpes) :
-- 250g de farine
-- 4 oeufs
-- 0,5L de lait
-- 50g de beurre
-- 2 cuillères à soupe de sucre
+## Ingrédients (pour 6 à 8 crêpes) :
+- 120g de farine
+- 3 oeufs
+- 0,25L de lait
+- 25g de beurre
+- 20g de sucre
 - Bière et/ou rhum
 
 ## Préparation
-- Dans un saladier, mélanger la farine, le sel et le sucre.
-- Mélanger les oeufs en ayant former un puit préalablement.
-- Incorporer le lait petit à petit pour éviter les grumeaux. Agrémentez de bière ou de rhum (ou des deux !).
-- Quand la pâte est bien lisse et sans grumeaux, ajoutez le beurre fondu.
-- Laissez reposer la pâte plusieurs dizaines de minutes voir plusieurs heures.
+- Faire fondre le beurre.
+- Dans un saladier, mélanger les oeufs et le sucre.
+- Ajouter progressivement la farine en évitant les grumeaux.
+- Ajouter le beurre fondu.
+- Une fois la pâte homogène et lisse, incorporer le lait petit à petit.
+- Ajouter le rhum
+- Laisser reposer au frigo minimum 30 minutes
+- La pâte est prête !
